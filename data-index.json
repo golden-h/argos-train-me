@@ -1268,5 +1268,49 @@
         "links": [
             "https://data.argosopentech.com/data-europarl-en_ca.argosdata"
         ]
+    },
+    {
+        "name": "wikimatrix",
+        "type": "data",
+        "from_code": "ja",
+        "to_code": "vi",
+        "size": 75799,
+		"reference": "Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong and Paco Guzman, WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia, arXiv, July 11 2019",
+        "links": [
+            "https://drive.google.com/file/d/1yrINJj8UAu7xsua4rVBtYtiCY2Vjy5Ko/view?usp=share_link"
+        ]
+    },
+    {
+		"name": "wikimedia",
+		"type": "data",
+		"from_code": "ja",
+		"to_code": "vi",
+		"size": 555,
+		"reference": "J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)",
+		"links": [
+            "https://drive.google.com/file/d/1Fa-rRBlOeJjYsPHfgijsmXCDEJQmlIha/view?usp=share_link"
+        ]
+    },
+    {
+		"name": "CCMatrix",
+		"type": "data",
+		"from_code": "ja",
+		"to_code": "vi",
+		"size": 3393155,
+		"reference": "Holger Schwenk, Guillaume Wenzek, Sergey Edunov, Edouard Grave, Armand Joulin and Angela Fan, CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB",
+		"links": [
+            "https://drive.google.com/file/d/1eN_ilXhlLwjydviuCaylHe-R8IuRERxS/view?usp=share_link"
+        ]
+    },
+    {
+		"name": "MultiCCAligned",
+		"type": "data",
+		"from_code": "ja",
+		"to_code": "vi",
+		"size": 2586075,
+		"reference": "El-Kishky, Ahmed and Chaudhary, Vishrav and Guzm\u00e1n, Francisco and Koehn, Philipp",
+		"links": [
+            "https://drive.google.com/file/d/1ctMimb6UragqqYaecxFtaLez4QGWrM6Q/view?usp=share_link"
+        ]
     }
 ]
